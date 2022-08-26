@@ -8,6 +8,8 @@ A set of programs to convert sound diskettes for the YAMAHA sampler TX16W.
 
 Visual Studio 2015 or later
 
+I haven't tried it, but maybe other compilers/toolchains can build it as well.
+
 ## How to use
 
 ### txw2wav
