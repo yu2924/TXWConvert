@@ -24,7 +24,7 @@ txw2wav [input spec] [output spec] [-d][-h][-o][-v]
 
 examples:
   single file   : txw2wav d:\dir\input-filename.W01 d:\dir\output-filename.wav
-  multiple file : txw2wav d:\dir\input-directory d:\dir\output-directory
+  multiple files: txw2wav d:\dir\input-directory d:\dir\output-directory
 ```
 omit [input spec] and [output spec] to enter the interactive mode
 
