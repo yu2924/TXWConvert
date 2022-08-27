@@ -47,8 +47,9 @@ omit [input file] and [output directory] to enter the interactive mode
 
 ## Reference
 
-[Yamaha TX-16W Technical Info](http://www.youngmonkey.ca/nose/audio_tech/synth/Yamaha-TX16W.html)  
-vortex.c (the original URL is lost)  
+* tx16w.tec.txt (The original URL is lost, but this site ["Yamaha TX-16W Technical Info"](http://www.youngmonkey.ca/nose/audio_tech/synth/Yamaha-TX16W.html) probably has the same content.)
+* vortex.c (The original URL is lost. Try "tx16w vortex.c" on google.)
+
 many thanks🙂
 
 ## Written by
